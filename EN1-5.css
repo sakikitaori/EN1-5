@@ -1,6 +1,10 @@
-/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title></title>
+    <link rel="stylesheet" href="" />
+  </head>
+  <body>
+  </body>
+</html>
